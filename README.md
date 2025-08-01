@@ -15,7 +15,7 @@ In my early teens, my grandmother worked for Texas Instruments and gifted me a 1
 
 While learning about variables, I discovered I could pass text into them and recall that text at any point. It all hit me in a eureka moment - if I did this correctly, I could ask a program a question and it would respond. For what felt like 24 hours straight, I typed away at that chiclet-style keyboard, trying to anticipate every question that might be asked (as much as a 13-year-old boy could imagine).
 
-That primitive chatbot was my first glimpse into what we now call AI. Over 40 years later, I'm still fascinated by the same fundamental question: how do we create meaningful communication between humans and machines?
+That primitive chatbot was my first glimpse into what we now call AI. Years later, I'm still fascinated by the same fundamental question: how do we create meaningful communication between humans and machines?
 
 This blog documents my journey exploring that question with modern tools, realistic hardware constraints, and decades of real-world IT experience.
 
