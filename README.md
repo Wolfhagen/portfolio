@@ -28,7 +28,7 @@ If you'd like to connect or read testimonials from those I’ve worked with, fee
 
 ## When It All Began
 
-In my early teens, my grandmother worked for Texas Instruments and gifted me a 16K TRS Color Computer that seemingly small act of loving kindness changed everything in my life. As I began learning BASIC programming, I could see what felt like endless potential unfolding before me.
+In my early teens, my grandmother worked for Texas Instruments and gifted me a 16K TRS Color Computer (CoCo) that seemingly small act of loving kindness changed everything in my life. As I began to learn BASIC programming, I began to see what felt like endless potential unfolding before me.
 
 While learning about variables, I discovered I could pass text into them and recall that text at any point. It all hit me in a eureka moment - if I did this correctly, I could ask a program a question and it would respond. For what felt like 24 hours straight, I typed away at that chiclet-style keyboard, trying to anticipate every question that might be asked (as much as a 13-year-old boy could imagine).
 
